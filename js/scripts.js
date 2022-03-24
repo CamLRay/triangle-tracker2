@@ -12,8 +12,6 @@ $(document).ready(function() {
   }
   });
 });
-// side 1 === ((side2 + side3)/2)
-
 
 function sideCount(side1, side2, side3) {
   if (side1 === ((side2 + side3)/2)) {
